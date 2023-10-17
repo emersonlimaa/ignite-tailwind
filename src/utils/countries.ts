@@ -253,6 +253,8 @@ export const countries = {
 // Country names object using 3-letter country codes to reference country name
 // ISO 3166 Alpha-3 Format: [3 letter Country Code]: [Country Name]
 // Sorted alphabetical by country name (special characters on bottom)
+{/* 
+
 const countryListAlpha3 = {
   AFG: 'Afghanistan',
   ALB: 'Albania',
@@ -504,3 +506,4 @@ const countryListAlpha3 = {
   ZWE: 'Zimbabwe',
   ALA: 'Åland Islands',
 }
+*/}
