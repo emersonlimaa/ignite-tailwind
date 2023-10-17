@@ -50,17 +50,12 @@ export default function Home() {
           <div className="grid gap-6 lg:grid-cols-2">
             <Input.Root>
               <Input.Control
-                name="firstName"
-                id="firstName"
-                type="text"
-                defaultValue="Emerson"
+                name="firstName" id="firstName" type="text" defaultValue="Emerson"
               />
             </Input.Root>
             <Input.Root>
               <Input.Control
-                name="lastName"
-                type="text"
-                defaultValue="Lima"
+                name="lastName" type="text" defaultValue="Lima"
               />
             </Input.Root>
           </div>
