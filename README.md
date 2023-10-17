@@ -37,22 +37,8 @@ $ npm run start
 ```
 O aplicativo está disponível no seu navegador pelo endereço http://localhost:3000.
 
-Para deploy do front end foi usado o [Vercel](https://vercel.com) e para o deploy do back, usamos o [Railway](https://railway.app)
+Para deploy do front end foi usado o [Vercel](https://vercel.com)
 
-## Veja o site final no ar [Aqui](feedback-widget-otujnnskc-mers77.vercel.app)
-
-##  🔖 Disposição
-
-Você pode visualizar o layout do projeto através do link abaixo:
-
-- [ Layout Web ](https://www.figma.com/file/NpEanTJe6Isf0cT9ndWIbB/Feedback-Widget-(Community)?node-id=100%3A3925)
-
-Lembrando que você precisa ter uma conta no [ Figma ](http://figma.com/).
-
-##  📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [ LICENSE ](LICENSE.md) para mais detalhes.
-
----
+## Veja o site final no ar [Aqui]()
 
 Feito por Emerson Lima 👋🏻 [ Participe da minha página no Instagram ](https://instagram.com/merscodes_)
